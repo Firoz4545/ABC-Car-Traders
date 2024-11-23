@@ -1,7 +1,5 @@
 # ABC-Car-Traders
 
-===============
-
 ABC Car Traders is a C# application designed to manage car trading operations. It provides functionalities for inventory management, customer interaction, and sales processing to streamline the car dealership experience.
 
 Features
